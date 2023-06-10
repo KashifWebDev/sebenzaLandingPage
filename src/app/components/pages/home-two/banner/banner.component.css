@@ -1,0 +1,16 @@
+.landingHeading{
+  font-size: 51px !important;
+  line-height: 72px !important;
+}
+@media only screen and (min-width: 1700px) {
+  .f1 {
+    left: -20% !important;
+    top: 8% !important;
+  }
+  .f2 {
+    right: -80% !important;
+  }
+  .f3 {
+    top: 106% !important;
+  }
+}

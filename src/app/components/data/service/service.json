@@ -1,0 +1,140 @@
+[
+    {
+        "id": 1,
+        "title": "Financial Consulting",
+        "imageicon": "assets/img/feature/service-icon-1.png",
+        "vectorimage": "assets/img/services/service-thumbnail-1.png",
+        "image": "assets/img/services/service-thumbnail-1.jpg",
+        "icon": "flaticon-goal-1",
+        "shorttext": "Develop effective plans to align your business goals with market opportunities.",
+        "workprocess": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "faqs": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quote": "Sebenza is a powerful all-in-one platform designed to streamline and optimize your business operations. With a comprehensive suite of features and tools, Sebenza empowers you to effectively manage tasks, projects, clients, finances, and more. From CRM and invoicing to time tracking and inventory management, Sebenza provides the tools you need to stay organized, increase productivity, and achieve success. With its user-friendly interface and robust capabilities, Sebenza is the ultimate solution for businesses of all sizes and industries. Experience efficiency and growth with Sebenza today.",
+        "htmltext": "<p>Our financial consulting services provide strategic insights and expert advice to help you optimize your financial operations. From financial planning and budgeting to risk management and investment strategies, our team of experienced consultants will guide you towards achieving your financial goals. We analyze market trends, identify growth opportunities, and provide tailored solutions to ensure your financial success in a rapidly changing business landscape.</p>"
+    },
+    {
+        "id": 2,
+        "title": "Strategic Planning",
+        "imageicon": "assets/img/feature/service-icon-2.png",
+        "vectorimage": "assets/img/services/service-thumbnail-2.png",
+        "image": "assets/img/services/service-thumbnail-2.jpg",
+        "icon": "flaticon-talk-show-1",
+        "shorttext": "QDevelop effective plans to align your business goals with market opportunities.",
+        "workprocess": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "faqs": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quote": "Sebenza is a powerful all-in-one platform designed to streamline and optimize your business operations. With a comprehensive suite of features and tools, Sebenza empowers you to effectively manage tasks, projects, clients, finances, and more. From CRM and invoicing to time tracking and inventory management, Sebenza provides the tools you need to stay organized, increase productivity, and achieve success. With its user-friendly interface and robust capabilities, Sebenza is the ultimate solution for businesses of all sizes and industries. Experience efficiency and growth with Sebenza today.",
+      "htmltext": "<p>Strategic planning is the foundation for long-term business success. Our strategic planning services enable you to define clear objectives, identify key opportunities, and develop actionable plans to drive growth and achieve sustainable competitive advantage. With a deep understanding of your industry and market dynamics, we help you navigate challenges, capitalize on emerging trends, and stay ahead of the competition through well-crafted strategic initiatives.</p>"
+    },
+    {
+        "id": 3,
+        "title": "IT Support",
+        "imageicon": "assets/img/feature/service-icon-3.png",
+        "vectorimage": "assets/img/services/service-thumbnail-3.png",
+        "image": "assets/img/services/service-thumbnail-3.jpg",
+        "icon": "flaticon-layers-2",
+        "shorttext": "Reliable technical assistance for seamless operations and enhanced productivity.",
+        "workprocess": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "faqs": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quote": "Sebenza is a powerful all-in-one platform designed to streamline and optimize your business operations. With a comprehensive suite of features and tools, Sebenza empowers you to effectively manage tasks, projects, clients, finances, and more. From CRM and invoicing to time tracking and inventory management, Sebenza provides the tools you need to stay organized, increase productivity, and achieve success. With its user-friendly interface and robust capabilities, Sebenza is the ultimate solution for businesses of all sizes and industries. Experience efficiency and growth with Sebenza today.",
+      "htmltext": "<p>Efficient IT infrastructure is vital for seamless business operations. Our comprehensive IT support services ensure that your systems run smoothly, your data is secure, and your technology needs are met. Whether it's network management, software support, or cybersecurity solutions, our team of skilled IT professionals is here to provide proactive support, troubleshooting, and strategic guidance to optimize your IT environment and enhance productivity.</p>"
+    },
+    {
+        "id": 4,
+        "title": "Legal Advisory",
+        "imageicon": "assets/img/feature/service-icon-4.png",
+        "vectorimage": "assets/img/services/service-thumbnail-4.png",
+        "image": "assets/img/services/service-thumbnail-4.jpg",
+        "icon": "flaticon-diamond-1",
+        "shorttext": "Trustworthy legal counsel to navigate complex regulations and protect your business interests.",
+        "workprocess": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "faqs": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quote": "Sebenza is a powerful all-in-one platform designed to streamline and optimize your business operations. With a comprehensive suite of features and tools, Sebenza empowers you to effectively manage tasks, projects, clients, finances, and more. From CRM and invoicing to time tracking and inventory management, Sebenza provides the tools you need to stay organized, increase productivity, and achieve success. With its user-friendly interface and robust capabilities, Sebenza is the ultimate solution for businesses of all sizes and industries. Experience efficiency and growth with Sebenza today.",
+      "htmltext": "<p>Navigating the legal landscape can be complex and challenging. Our legal advisory services offer expert guidance and tailored solutions to address your specific legal needs. From contract drafting and review to compliance consulting and dispute resolution, our experienced legal team provides sound advice and practical strategies to protect your business interests, mitigate risks, and ensure legal compliance in a dynamic regulatory environment.</p>"
+    },
+    {
+        "id": 5,
+        "title": "Digital Marketing",
+        "imageicon": "assets/img/feature/service-icon-5.png",
+        "vectorimage": "assets/img/services/service-thumbnail-5.png",
+        "image": "assets/img/services/service-thumbnail-1.jpg",
+        "icon": "flaticon-certificate-1",
+        "shorttext": "Innovative strategies to amplify your online presence and reach your target audience.",
+        "workprocess": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "faqs": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quote": "Sebenza is a powerful all-in-one platform designed to streamline and optimize your business operations. With a comprehensive suite of features and tools, Sebenza empowers you to effectively manage tasks, projects, clients, finances, and more. From CRM and invoicing to time tracking and inventory management, Sebenza provides the tools you need to stay organized, increase productivity, and achieve success. With its user-friendly interface and robust capabilities, Sebenza is the ultimate solution for businesses of all sizes and industries. Experience efficiency and growth with Sebenza today.",
+      "htmltext": "<p>In the digital age, a strong online presence is essential for business growth. Our digital marketing services help you create impactful digital strategies, build brand awareness, and drive targeted traffic to your website. We leverage the power of SEO, social media, content marketing, and paid advertising to boost your online visibility, engage your audience, and generate measurable results. Let us be your partner in expanding your digital footprint and reaching your marketing goals.</p>"
+    },
+    {
+        "id": 6,
+        "title": "HR Management",
+        "imageicon": "assets/img/feature/service-icon-6.png",
+        "vectorimage": "assets/img/services/service-thumbnail-6.png",
+        "image": "assets/img/services/service-thumbnail-2.jpg",
+        "icon": "flaticon-rss-1",
+        "shorttext": "Streamline HR processes, foster a productive work environment, and maximize employee potential.",
+        "workprocess": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "faqs": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "quote": "Sebenza is a powerful all-in-one platform designed to streamline and optimize your business operations. With a comprehensive suite of features and tools, Sebenza empowers you to effectively manage tasks, projects, clients, finances, and more. From CRM and invoicing to time tracking and inventory management, Sebenza provides the tools you need to stay organized, increase productivity, and achieve success. With its user-friendly interface and robust capabilities, Sebenza is the ultimate solution for businesses of all sizes and industries. Experience efficiency and growth with Sebenza today.",
+      "htmltext": "<p>Effective human resource management is crucial for fostering a productive and engaged workforce. Our HR management services offer comprehensive solutions to streamline HR processes, attract top talent, and nurture employee development. From recruitment and onboarding to performance management and training, we provide the expertise and tools to optimize your HR operations and create a positive work culture that drives employee satisfaction and organizational success.</p>"
+    }
+]

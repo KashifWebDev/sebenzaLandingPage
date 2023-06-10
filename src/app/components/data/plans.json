@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "planclass":"professional-plan",
+    "plantitle":"Professional",
+    "icon":"assets/img/pricing/pricing-table-icon.png",
+    "price":1,
+    "period":"user",
+    "includes":[
+      "Personalized Dashboards",
+      "Advanced Reporting",
+      "Advanced Analytics",
+      "Priority Support",
+      "Extended Storage"
+    ],
+    "excludes":[
+    ],
+    "btnstyle":"bg-ocean-blue-gradient"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "link": "/",
+    "linkText": "Home"
+  },
+    {
+        "id": 2,
+        "linkText": "Services",
+      "link": "/services"
+    },
+    {
+        "id": 3,
+        "linkText": "Pages",
+        "child": true,
+        "submenu": [
+            {
+                "id": 3.1,
+                "link": "/about",
+                "linkText": "About Us"
+            },
+            {
+                "id": 3.2,
+                "link": "/team",
+                "linkText": "Our Team"
+            },
+            {
+                "id": 3.3,
+                "link": "/pricing",
+                "linkText": "Pricing"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Blog",
+      "link": "/blog-standard"
+    },
+    {
+        "id": 5,
+        "link": "/contact",
+        "linkText": "Contact"
+    }
+]

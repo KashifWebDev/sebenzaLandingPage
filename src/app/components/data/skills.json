@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Technology Expertise",
+        "value":97,
+        "style":"bg-royal-blue"
+    },
+    {
+        "id":2,
+        "title":"Strategic Thinking",
+        "value":98,
+        "style":"bg-burning-orange"
+    },
+    {
+        "id":3,
+        "title":"Communication and Collaboration",
+        "value":99,
+        "style":"bg-magenta"
+    },
+    {
+        "id":4,
+        "title":"Adaptability and Innovation",
+        "value":97,
+        "style":"bg-blue"
+    }
+]
