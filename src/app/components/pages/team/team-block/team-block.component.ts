@@ -10,6 +10,7 @@ export class TeamBlockComponent implements OnInit {
   // pagination
   page: number = 1;
   public teamblock = data;
+  baseURL = 'https://sebenza.kashifali.me/';
   constructor() { }
 
   ngOnInit(): void {

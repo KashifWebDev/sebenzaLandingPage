@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "image":"https://webtend.net/demo/angular/landio/assets/img/team/member-1.jpg",
+        "image":"assets/img/custom/team/member-1.jpg",
         "name":"Moses Tshimanga",
         "post":"CEO & Founder",
         "shorttext":"Quis autem veleum iure reprehenderit quinea voluptate esse quam molestiae consequatu velillum dolorem fugiat quo voluptas nulla pariano one rejects dislikes",
@@ -30,7 +30,7 @@
     },
     {
         "id":2,
-        "image":"https://webtend.net/demo/angular/landio/assets/img/team/member-4.jpg",
+        "image":"assets/img/custom/team/member-4.jpg",
         "name":"Kashif Ali",
         "post":"Technical Team Lead",
         "shorttext":"Quis autem veleum iure reprehenderit quinea voluptate esse quam molestiae consequatu velillum dolorem fugiat quo voluptas nulla pariano one rejects dislikes",
@@ -59,7 +59,7 @@
     },
     {
         "id":3,
-        "image":"https://webtend.net/demo/angular/landio/assets/img/team/member-3.jpg",
+        "image":"assets/img/custom/team/member-2.jpg",
         "name":"Abdullah",
         "post":"Backend Developer",
         "shorttext":"Quis autem veleum iure reprehenderit quinea voluptate esse quam molestiae consequatu velillum dolorem fugiat quo voluptas nulla pariano one rejects dislikes",
@@ -88,7 +88,7 @@
     },
     {
         "id":4,
-        "image":"https://webtend.net/demo/angular/landio/assets/img/team/member-5.jpg",
+        "image":"assets/img/custom/team/member-5.jpg",
         "name":"Hamza",
         "post":"Mobile App Developer",
         "shorttext":"Quis autem veleum iure reprehenderit quinea voluptate esse quam molestiae consequatu velillum dolorem fugiat quo voluptas nulla pariano one rejects dislikes",
@@ -117,7 +117,7 @@
     },
     {
         "id":5,
-        "image":"https://webtend.net/demo/angular/landio/assets/img/team/member-2.jpg",
+        "image":"assets/img/custom/team/member-3.jpg",
         "name":"Shagufta",
         "post":"Content Writer",
         "shorttext":"Quis autem veleum iure reprehenderit quinea voluptate esse quam molestiae consequatu velillum dolorem fugiat quo voluptas nulla pariano one rejects dislikes",
